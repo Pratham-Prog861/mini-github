@@ -1,0 +1,5 @@
+{
+  "name": "Mini Github",
+  "description": "A complete small-scale GitHub-like platform built with React and Tailwind CSS. It features repository management, a file system viewer, commit history, and more, all running entirely in your browser using local storage.",
+  "requestFramePermissions": []
+}
